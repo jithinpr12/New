@@ -1,0 +1,7 @@
+com\studentapp\model\Student.class
+com\studentapp\repository\StudentRepository.class
+com\studentapp\service\StudentServicetest.class
+com\studentapp\controller\StudentPageController.class
+com\studentapp\StudentApplication.class
+com\studentapp\controller\StudentController.class
+com\studentapp\service\StudentService.class
